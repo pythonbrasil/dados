@@ -15,10 +15,7 @@
 | Discord    | Atividade por voz                                                         | [discord-atividade-por-voz.csv](discord-atividade-por-voz.csv)                         |  |
 | Discord    | Canais de texto mais populares                                            | [discord-canais-de-texto-populares.csv](discord-canais-de-texto-populares.csv)         |  |
 | Discord    | Canais de voz mais populares                                              | [discord-canais-de-voz-populares.csv](discord-canais-de-voz-populares.csv)             |  |
-| Inscrições    | Questionário das incrições realizadas via EventBrite                                              | [incrições-participantes.csv](incrições-participantes)             |  |
-
-
-
+| Inscrições    | Questionário das incrições realizadas via EventBrite                                              | [incrições-participantes.csv](incrições-participantes)             | [incrições-participantes](./dicionarios-de-dados/incrições-participantes.md)  |
 
 
 
