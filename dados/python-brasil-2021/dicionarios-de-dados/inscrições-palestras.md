@@ -1,8 +1,8 @@
 # Dicionário de Dados das Incrições dos Participantes vida Eventbrite 
 
-Dados: [../inscricoes-participantes.csv](../inscricoes-participantes.csv)
+Dados: [../inscrições-palestras.csv](../inscrições-palestras.csv)
 
-Em 201, o evento foi online, de graça e aberto para qualquer pessoa participar **com necessidsde de inscriçãi para receber certificdo**. Ou seja, o número de inscritos para o evento não reflete o todal de participantes, mas refletindo os que receberam um certificado de participação válido.
+Em 201, o evento foi online, de graça e aberto para qualquer pessoa participar **com necessidsde de inscrições para receber certificdo**. Ou seja, o número de inscritos para o evento não reflete o todal de participantes, mas refletindo os que receberam um certificado de participação válido.
 
 - Colunas removidas:
 ```
