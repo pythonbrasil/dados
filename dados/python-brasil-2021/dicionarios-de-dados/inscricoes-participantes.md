@@ -1,6 +1,6 @@
 # Dicionário de Dados das Incrições dos Participantes vida Eventbrite 
 
-Dados: [../incrições-participantes.csv](../incrições-participantes)
+Dados: [../inscricoes-participantes.csv](../inscricoes-participantes.csv)
 
 Em 201, o evento foi online, de graça e aberto para qualquer pessoa participar **com necessidsde de inscriçãi para receber certificdo**. Ou seja, o número de inscritos para o evento não reflete o todal de participantes, mas refletindo os que receberam um certificado de participação válido.
 
