@@ -21,6 +21,6 @@
 
 
 ## Observações
-- Dados do YouTube foram extraídos em: 
-- Dados do Discord foram extraídos em: 
+- Dados do YouTube foram extraídos em: 2022-11-03
+- Dados do Discord foram extraídos em: 2022-10-28
 - Dados de Inscritos foram extraídos em: 2022-10-27
