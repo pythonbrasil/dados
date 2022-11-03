@@ -2,8 +2,8 @@
 
 | Ferramenta | Descrição                                                                 | Arquivo                                                                               | Dicionário de Dados
 | ---------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------- |
-| YouTube    | Total de visualizações no canal por dia (considera todos vídeos no canal) | |  |
-| YouTube    | Total de visualizações nos vídeos por dia (apenas vídeos da pybr2021)     | |  |
+| YouTube    | Total de visualizações no canal por dia (considera todos vídeos no canal) | [youtube-totals.csv](youtube-totals.csv) |  |
+| YouTube    | Total de visualizações nos vídeos por dia (apenas vídeos da pybr2021)     | [youtube-videos.csv](youtube-videos.csv) |  |
 | Discord    | Total de participantes por dia                                            | [discord-participação.csv](discord-participação.csv)                                   |  |
 | Discord    | Participantes por plataforma                                              | [discord-participantes-por-plataforma.csv](discord-participantes-por-plataforma.csv)   |  |
 | Discord    | Participantes por país                                                    | [discord-participantes-por-país.csv](discord-participantes-por-país.csv)               |  |
@@ -22,6 +22,6 @@
 
 
 ## Observações
-- Dados do YouTube foram extraídos em:
+- Dados do YouTube foram extraídos em: 2022-10-28
 - Dados do Discord foram extraídos em: 2022-10-28
 - Dados de Inscritos foram extraídos em: 2022-10-27
