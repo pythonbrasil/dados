@@ -1,6 +1,6 @@
 # Dicionário de Dados das Incrições dos Participantes vida Eventbrite 
 
-Dados: [../inscrições-palestras.csv](../inscricoes-palestras.csv)
+Dados: [../inscrições-particiantes.csv](../inscricoes-particiantes.csv)
 
 Os dados informa a quantidade total de pessoas inscritas no evento, não importando se realizaram check-in válido.
 

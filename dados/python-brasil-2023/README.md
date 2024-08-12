@@ -2,7 +2,7 @@
 
 | Ferramenta | Descrição                                                                 | Arquivo                                                                               | Dicionário de Dados
 | ---------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------- |
-| Inscrições    | Questionário das incrições realizadas via EventBrite                                              | [inscrições-palestras](inscricoes-palestras.csv)             | [inscrições-palestras](./dicionarios-de-dados/inscricoes-palestras.md)  |
+| Inscrições    | Questionário das incrições realizadas via EventBrite                                              | [inscrições-participantes](inscricoes-participantes.csv)             | [inscrições-participantes](./dicionarios-de-dados/inscricoes-participantes.md)  |
 
 
 ## Observações
