@@ -1,7 +1,7 @@
 import pandas as pd
 import click
 import re
-
+import csv
 
 def normalize_column_name(column_name):
     # Convert to lowercase
@@ -107,7 +107,26 @@ def normalize_columns_cmd(input_csv, output_csv):
     df.to_csv(output_csv, index=False, sep=';', encoding='utf-8')
     
     # Imprimir a tabela Markdown
-    click.echo(markdown_output)
+    click.echo(markdown_output)@cli.command()
+
+@cli.command()
+@click.argument('input_csv', type=click.Path(exists=True))
+@click.argument('output_csv', type=click.Path())
+def replace_separator_cmd(input_csv, output_csv):
+    """
+    Normalize column names in the CSV file (lowercase, remove special characters, replace spaces with underscores).
+
+    \b
+    INPUT_CSV: Path to the input CSV file.
+    OUTPUT_CSV: Path to the output CSV file.
+    """
+    # Read the CSV file
+    df = pd.read_csv(input_csv, sep=';', na_values=['', ' '], encoding='utf-8')
+
+    # Write to the output CSV file quoting values
+    df.to_csv(output_csv, index=False, sep=',', encoding='utf-8', 
+              quotechar='"', quoting=csv.QUOTE_ALL)
+
 
 if __name__ == '__main__':
     cli()
