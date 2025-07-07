@@ -2,8 +2,8 @@
 
 | Ferramenta | Descrição                                                                 | Arquivo                                                                               | Dicionário de Dados
 | ---------- | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------- |
-| YouTube    | Total de visualizações no canal por dia (considera todos vídeos no canal) | |  |
-| YouTube    | Total de visualizações nos vídeos por dia (apenas vídeos da pybr2021)     | |  |
+| YouTube    | Total de visualizações no canal por dia (considera todos vídeos no canal) |[youtube-totals.csv](youtube-totals.csv) |  |
+| YouTube    | Total de visualizações nos vídeos por dia (apenas vídeos da pybr2022)     | [youtube-videos.csv](youtube-videos.csv)|  |
 | Discord    | Total de participantes por dia                                            | [discord-participação.csv](discord-participação.csv)                                   |  |
 | Discord    | Participantes por plataforma                                              | [discord-participantes-por-plataforma.csv](discord-participantes-por-plataforma.csv)   |  |
 | Discord    | Participantes por país                                                    | [discord-participantes-por-país.csv](discord-participantes-por-país.csv)               |  |
@@ -17,7 +17,7 @@
 | Discord    | Canais de texto mais populares                                            | [discord-canais-de-texto-populares.csv](discord-canais-de-texto-populares.csv)         |  |
 | Discord    | Canais de voz mais populares                                              | [discord-canais-de-voz-populares.csv](discord-canais-de-voz-populares.csv)             |  |
 | Inscrições    | Questionário das incrições realizadas via EventBrite                                              | [inscrições-palestras](inscricoes-palestras.csv)             | [inscrições-palestras](./dicionarios-de-dados/inscricoes-palestras.md)  |
-| Ministrantes de atividades    | Dados sócio econômicos das ministrantes de palestras e tutoriais                                              |            |   |
+| Ministrantes de atividades    | Dados sócio econômicos das ministrantes de palestras e tutoriais                                              |    [ministrante-atividades.csv](ministrante-atividades.csv) |   |
 
 
 
